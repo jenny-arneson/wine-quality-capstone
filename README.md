@@ -69,6 +69,7 @@ wine-quality-capstone/
 │  ├─ confusion_matrix.png
 │  └─ wine_quality_distribution.png
 ├─ requirements.txt
+└─ README.md
 
 ---
 
