@@ -63,3 +63,12 @@ Jennifer Arneson | Data Scientist
 
 - Deploy model using Streamlit or Flask (coming soon!)
 - Explore additional datasets to combine with wine reviews
+
+## How to Run
+```bash
+# create env and install deps
+python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+
+# launch notebook
+jupyter notebook Wine_Quality_Capstone.ipynb
